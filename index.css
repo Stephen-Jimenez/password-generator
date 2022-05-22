@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    padding: 40px;
+    background: #1C1C1C;
+}
+
+#app {
+    width: 1000px;
+    height: 900px;
+    background: #1F2937;
+    margin: auto;
+    font-family: 'Inter', sans-serif;
+}
+
+#main {
+    border-bottom: 2px solid #2F3E53;
+    height: 60%;
+    padding: 40px 40px;
+}
+
+#main p {
+    color: #D5D4D8;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+#generate {
+    color: #FFFFFF;
+    font-size: 60px;
+}
+
+#random {
+    color: #4ADF86;
+    font-size: 60px;
+}
+
+#generate-btn {
+    background: #10B981;
+    color: #FFFFFF;
+    width: 300px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 60px;
+    border: none;
+}
+
+#text-content {
+    padding: 100px 20px;
+}
+
+.password-btn {
+    background: #273549;
+    color: #55F991;
+    width: 300px;
+    height: 75px;
+    font-size: 20px;
+    margin-right: 120px;
+    border: none;
+    border-radius: 10px;
+}
+
+#password-section {
+    padding: 40px 60px;
+}
+
+#row-1 {
+    margin-bottom: 40px;
+}
